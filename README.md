@@ -20,7 +20,7 @@ RAG Chat Assistant is a Streamlit application that uses the LangChain library to
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/rag-chat-assistant.git
+    git clone [https://github.com/yourusername/rag-chat-assistant.git](https://github.com/bikrammehra/Ollama_Local_RAG.git)
     cd rag-chat-assistant
     ```
 
