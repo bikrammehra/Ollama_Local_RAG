@@ -2,6 +2,8 @@
 
 RAG Chat Assistant is a Streamlit application that uses the LangChain library to perform retrieval-augmented generation (RAG) for answering user questions based on uploaded PDF documents.
 
+![image](https://github.com/user-attachments/assets/d9d3da09-37d3-46bc-b6c1-dff7574fa9b5)
+
 ## Features
 
 - Upload multiple PDF documents
