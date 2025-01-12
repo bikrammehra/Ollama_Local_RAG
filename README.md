@@ -1,4 +1,4 @@
-# RAG Chat Assistant (:100: Local)
+# RAG Chat Assistant (💯 Local)
 
 RAG Chat Assistant is a Streamlit application that uses the LangChain library to perform retrieval-augmented generation (RAG) for answering user questions based on uploaded PDF documents.
 
