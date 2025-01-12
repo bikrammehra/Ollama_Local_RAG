@@ -14,6 +14,8 @@ RAG Chat Assistant is a Streamlit application that uses the LangChain library to
 ## Prerequisites
 
 - Python 3.8 or higher
+- Ollama and the model you want to use https://ollama.com/download
+- ollama pull llama3.2 on you terminal to pull the llama3.2 model to use it in our RAG app Similarly you can choose any model from https://ollama.com/search
 
 ## Installation
 
@@ -21,7 +23,7 @@ RAG Chat Assistant is a Streamlit application that uses the LangChain library to
 
     ```bash
     git clone https://github.com/bikrammehra/Ollama_Local_RAG.git
-    cd rag-chat-assistant
+    cd OLLAMA_LOCAL_RAG
     ```
 
 2. Create a virtual environment and activate it:
